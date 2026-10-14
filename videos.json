@@ -6,7 +6,15 @@
       "amazon": ""
     },
     "domain": "nohiddensteps.com",
-    "domain_live": false
+    "domain_live": false,
+    "parts": {
+      "1": "Getting Ready",
+      "2": "Knife Skills & Cuts",
+      "3": "Heat & Cooking Methods",
+      "4": "Stocks & Soups",
+      "5": "Sauces",
+      "6": "The Basics"
+    }
   },
   "videos": [
     {
@@ -21,7 +29,8 @@
         "Spoon it into the dry measuring cup until it's heaped.",
         "Sweep the top flat with the back of a knife.",
         "Never scoop the cup straight into the bag; it packs in extra flour."
-      ]
+      ],
+      "part": 1
     },
     {
       "slug": "what-the-batter-should-look-like",
@@ -34,7 +43,8 @@
         "Stir wet into dry just until no dry flour shows, about 10–15 strokes.",
         "Lumps are good. Stop stirring.",
         "After 5 minutes of rest it looks thicker and a little bubbly."
-      ]
+      ],
+      "part": 1
     },
     {
       "slug": "when-to-flip",
@@ -47,7 +57,8 @@
         "Bubbles on top pop and leave holes that stay open.",
         "The edges look dry and matte instead of shiny.",
         "Usually 2–3 minutes on medium heat. Flip once."
-      ]
+      ],
+      "part": 1
     },
     {
       "slug": "soft-scrambled-eggs",
@@ -61,7 +72,8 @@
         "Medium-low heat; butter should foam gently, not brown.",
         "Wait 20 seconds, then slowly push the eggs from the edge to the center.",
         "Take them off the heat while they still look a little wet and glossy."
-      ]
+      ],
+      "part": 1
     },
     {
       "slug": "how-to-roll-a-burrito",
@@ -74,7 +86,8 @@
         "Warm the tortilla first so it doesn't crack.",
         "Filling in a line just below the middle.",
         "Fold the bottom up, fold in both sides, then roll away from you, tucking as you go."
-      ]
+      ],
+      "part": 1
     },
     {
       "slug": "making-a-vinaigrette",
@@ -88,7 +101,8 @@
         "Add the mustard and oil.",
         "Shake hard 20–30 seconds until cloudy and slightly thick.",
         "Taste on a lettuce leaf, not a spoon."
-      ]
+      ],
+      "part": 1
     },
     {
       "slug": "the-pinch-grip",
@@ -97,7 +111,12 @@
       "used_in": [
         "Knife Skills (Part 2)"
       ],
-      "recap": []
+      "recap": [
+        "Pinch the blade just in front of the handle between your thumb and the side of your bent index finger.",
+        "Wrap your other three fingers around the handle.",
+        "Rock the knife forward and down; let the blade do the work."
+      ],
+      "part": 2
     },
     {
       "slug": "the-claw-grip",
@@ -106,7 +125,12 @@
       "used_in": [
         "Knife Skills (Part 2)"
       ],
-      "recap": []
+      "recap": [
+        "Curl your fingertips under, like holding a ball.",
+        "Rest your knuckles against the side of the blade; they guide it.",
+        "Fingertips stay tucked behind your knuckles where the blade can't reach."
+      ],
+      "part": 2
     },
     {
       "slug": "honing-a-knife",
@@ -115,7 +139,12 @@
       "used_in": [
         "Knife Skills (Part 2)"
       ],
-      "recap": []
+      "recap": [
+        "Hold the steel upright with the tip resting on a towel.",
+        "Draw the blade down the steel at a slight angle, heel to tip.",
+        "Alternate sides, 5–6 strokes each. Honing straightens the edge; it doesn't sharpen."
+      ],
+      "part": 2
     },
     {
       "slug": "dicing-an-onion",
@@ -124,7 +153,12 @@
       "used_in": [
         "Knife Skills (Part 2)"
       ],
-      "recap": []
+      "recap": [
+        "Cut in half through the root and peel. Keep the root on; it holds the layers together.",
+        "Lay flat. Make lengthwise cuts up to, not through, the root.",
+        "Slice across those cuts with the claw grip. Toss the root end."
+      ],
+      "part": 2
     },
     {
       "slug": "peeling-and-smashing-garlic",
@@ -134,7 +168,12 @@
         "Knife Skills (Part 2)",
         "Roast Chicken"
       ],
-      "recap": []
+      "recap": [
+        "Lay the clove under the flat of your knife and press down with your palm.",
+        "The skin cracks and slips right off.",
+        "Press harder to smash it open. Smashed garlic gives the mildest, sweetest flavor."
+      ],
+      "part": 2
     },
     {
       "slug": "slicing-a-bell-pepper",
@@ -144,7 +183,12 @@
         "Knife Skills (Part 2)",
         "Chicken Fajitas"
       ],
-      "recap": []
+      "recap": [
+        "Cut off the top and bottom.",
+        "Slice down one side and unroll it into a flat sheet.",
+        "Trim away the white ribs, then slice into strips, skin side down."
+      ],
+      "part": 2
     },
     {
       "slug": "against-the-grain",
@@ -154,7 +198,12 @@
         "Knife Skills (Part 2)",
         "Chicken Fajitas"
       ],
-      "recap": []
+      "recap": [
+        "Look for the lines running through the meat. Those are the muscle fibers.",
+        "Turn the meat so your knife crosses those lines.",
+        "Short fibers chew tender; long ones chew tough."
+      ],
+      "part": 2
     },
     {
       "slug": "dicing-a-tomato",
@@ -163,7 +212,12 @@
       "used_in": [
         "Pico de Gallo"
       ],
-      "recap": []
+      "recap": [
+        "Cut in half top to bottom and scoop out the watery seeds.",
+        "Lay flat and slice into ¼-inch strips.",
+        "Turn and cut across the strips into small dice."
+      ],
+      "part": 2
     },
     {
       "slug": "cutting-an-avocado-safely",
@@ -172,7 +226,12 @@
       "used_in": [
         "Guacamole"
       ],
-      "recap": []
+      "recap": [
+        "Never hold it in your hand. Lay it on the board, fingers on top.",
+        "Cut lengthwise all the way around the pit, then twist the halves apart.",
+        "Scoop out the pit with a spoon, then scoop the flesh."
+      ],
+      "part": 2
     },
     {
       "slug": "slicing-garlic",
@@ -181,7 +240,12 @@
       "used_in": [
         "Spaghetti Aglio e Olio"
       ],
-      "recap": []
+      "recap": [
+        "Peel the clove and hold it with the claw grip.",
+        "Slice as thin as you can, about the thickness of a coin.",
+        "Keep slices even so they all turn golden at the same time."
+      ],
+      "part": 2
     },
     {
       "slug": "golden-vs-burnt-garlic",
@@ -190,7 +254,12 @@
       "used_in": [
         "Spaghetti Aglio e Olio"
       ],
-      "recap": []
+      "recap": [
+        "Start garlic in cold oil over medium-low heat.",
+        "Golden and smelling sweet and nutty: done. Pull it now.",
+        "Brown and bitter-smelling: too far. Start over; it will taste bitter."
+      ],
+      "part": 2
     },
     {
       "slug": "shredding-cabbage",
@@ -199,7 +268,12 @@
       "used_in": [
         "Coleslaw"
       ],
-      "recap": []
+      "recap": [
+        "Cut through the core into quarters, then cut out the hard core at an angle.",
+        "Lay a quarter flat side down.",
+        "Slice across as thin as you can."
+      ],
+      "part": 2
     },
     {
       "slug": "julienne",
@@ -208,7 +282,12 @@
       "used_in": [
         "Coleslaw"
       ],
-      "recap": []
+      "recap": [
+        "Cut into 3-inch lengths and slice lengthwise into thin planks.",
+        "Stack the planks.",
+        "Slice into thin matchsticks, about ⅛ inch."
+      ],
+      "part": 2
     },
     {
       "slug": "gray-vs-brown-maillard",
@@ -218,7 +297,12 @@
         "Heat & Cooking Methods (Part 3)",
         "Pan-Seared Chicken Thighs"
       ],
-      "recap": []
+      "recap": [
+        "Pat meat completely dry; water makes it steam.",
+        "Hot pan, oil shimmering, pieces not touching.",
+        "Lay it down and don't touch it. It releases on its own when the crust forms."
+      ],
+      "part": 3
     },
     {
       "slug": "boil-vs-simmer",
@@ -229,7 +313,12 @@
         "Boiled Pasta with Butter and Parmesan",
         "Chicken Stock"
       ],
-      "recap": []
+      "recap": [
+        "Rolling boil: big bubbles that keep going when you stir. For pasta and blanching.",
+        "Simmer: small, steady bubbles. For soups and sauces.",
+        "Bare simmer: a bubble or two every second. For stock and beans."
+      ],
+      "part": 3
     },
     {
       "slug": "deglazing",
@@ -239,7 +328,12 @@
         "Heat & Cooking Methods (Part 3)",
         "Beef Stew"
       ],
-      "recap": []
+      "recap": [
+        "The brown bits stuck to the pan are flavor, not burnt food.",
+        "Pour liquid into the hot pan.",
+        "Scrape hard with a flat wooden spoon until the bottom comes clean."
+      ],
+      "part": 3
     },
     {
       "slug": "folding-an-omelet",
@@ -248,7 +342,12 @@
       "used_in": [
         "Scrambled Eggs and Omelet"
       ],
-      "recap": []
+      "recap": [
+        "As the bottom sets, lift an edge and tilt so runny egg flows under.",
+        "When the top is almost set, add filling to one half.",
+        "Fold the empty half over and slide it onto the plate."
+      ],
+      "part": 3
     },
     {
       "slug": "al-dente",
@@ -257,7 +356,12 @@
       "used_in": [
         "Boiled Pasta with Butter and Parmesan"
       ],
-      "recap": []
+      "recap": [
+        "Start tasting 2 minutes before the package time.",
+        "Bite a piece: cooked through but slightly firm in the very center.",
+        "No chalky white dot, not soft and limp."
+      ],
+      "part": 3
     },
     {
       "slug": "cutting-broccoli-and-squash",
@@ -266,7 +370,12 @@
       "used_in": [
         "Roasted Vegetables"
       ],
-      "recap": []
+      "recap": [
+        "Broccoli: cut florets off the stalk, then halve big ones into bite-sized pieces.",
+        "Squash: cut off both ends, peel, halve, scoop the seeds, then cube.",
+        "Same size pieces cook in the same time."
+      ],
+      "part": 3
     },
     {
       "slug": "crowded-vs-spaced",
@@ -275,7 +384,12 @@
       "used_in": [
         "Roasted Vegetables"
       ],
-      "recap": []
+      "recap": [
+        "Crowded vegetables trap steam and turn soggy.",
+        "Spread in a single layer with space between pieces.",
+        "Use a second pan if they won't fit."
+      ],
+      "part": 3
     },
     {
       "slug": "the-smash",
@@ -284,7 +398,12 @@
       "used_in": [
         "Smash Burgers"
       ],
-      "recap": []
+      "recap": [
+        "Pan very hot, cold beef ball in the pan.",
+        "Parchment on top, press down hard until ¼ inch thin.",
+        "Smash once, in the first 30 seconds, then leave it alone 1½–2 minutes."
+      ],
+      "part": 3
     },
     {
       "slug": "mincing-garlic",
@@ -293,7 +412,12 @@
       "used_in": [
         "Chicken Stir-Fry"
       ],
-      "recap": []
+      "recap": [
+        "Peel, then roughly chop.",
+        "Rock the knife back and forth over the pile, gathering it as you go.",
+        "Pieces smaller than a grain of rice. Minced garlic is sharp and burns fast."
+      ],
+      "part": 3
     },
     {
       "slug": "blanching",
@@ -302,7 +426,12 @@
       "used_in": [
         "Garlic Green Beans"
       ],
-      "recap": []
+      "recap": [
+        "Boil in salted water just until bright green, 2–3 minutes.",
+        "Move straight into ice water to stop the cooking.",
+        "Drain and dry before sautéing."
+      ],
+      "part": 3
     },
     {
       "slug": "where-to-put-the-thermometer",
@@ -311,7 +440,12 @@
       "used_in": [
         "Roast Chicken"
       ],
-      "recap": []
+      "recap": [
+        "Push into the thickest part of the meat.",
+        "Don't touch bone or the pan.",
+        "Whole chicken: thigh 175°F, breast at least 160°F (rises to 165°F as it rests)."
+      ],
+      "part": 3
     },
     {
       "slug": "carving-a-chicken",
@@ -320,7 +454,12 @@
       "used_in": [
         "Roast Chicken"
       ],
-      "recap": []
+      "recap": [
+        "Rest 15 minutes first.",
+        "Cut through the skin between leg and body, pull the leg out, cut through the joint.",
+        "Cut along the breastbone, following the bone down to lift off each breast. Slice across."
+      ],
+      "part": 3
     },
     {
       "slug": "browning-in-batches",
@@ -329,7 +468,12 @@
       "used_in": [
         "Beef Stew"
       ],
-      "recap": []
+      "recap": [
+        "Only one-third of the meat in the pot at a time, pieces not touching.",
+        "Leave it 3 minutes before turning.",
+        "Crowding makes it release water, steam and turn gray."
+      ],
+      "part": 3
     },
     {
       "slug": "slicing-onions-without-crying",
@@ -338,7 +482,12 @@
       "used_in": [
         "French Onion Soup"
       ],
-      "recap": []
+      "recap": [
+        "Use a sharp knife; dull blades crush more and release more of the sting.",
+        "Chill the onion 15 minutes first.",
+        "Halve through the root, peel, slice root to tip."
+      ],
+      "part": 4
     },
     {
       "slug": "caramelized-onion-stages",
@@ -347,7 +496,12 @@
       "used_in": [
         "French Onion Soup"
       ],
-      "recap": []
+      "recap": [
+        "Pale and wilted after 10 minutes covered.",
+        "Soft gold, then peanut butter, then deep mahogany over 45–60 minutes on medium-low.",
+        "Add a splash of water when brown film builds up, and scrape."
+      ],
+      "part": 4
     },
     {
       "slug": "the-risotto-rhythm",
@@ -356,7 +510,12 @@
       "used_in": [
         "Simple Risotto"
       ],
-      "recap": []
+      "recap": [
+        "Keep the stock warm on a back burner.",
+        "Add one ladle at a time; stir until mostly absorbed.",
+        "Done when tender with a little bite, and loose enough to spread like a slow wave."
+      ],
+      "part": 4
     },
     {
       "slug": "blooming-spices",
@@ -365,7 +524,12 @@
       "used_in": [
         "Chicken Tortilla Soup"
       ],
-      "recap": []
+      "recap": [
+        "Add ground spices to the hot oil and vegetables.",
+        "Stir constantly for about 30 seconds until strongly fragrant.",
+        "Add liquid right away; spices burn fast."
+      ],
+      "part": 4
     },
     {
       "slug": "thickening-with-potatoes",
@@ -374,7 +538,12 @@
       "used_in": [
         "Loaded Potato Soup"
       ],
-      "recap": []
+      "recap": [
+        "Simmer until a cube smashes easily against the pot.",
+        "Mash about half right in the pot.",
+        "Their starch turns the broth thick and creamy."
+      ],
+      "part": 4
     },
     {
       "slug": "pan-sauce",
@@ -383,7 +552,12 @@
       "used_in": [
         "Sauces (Part 5)"
       ],
-      "recap": []
+      "recap": [
+        "Pour off all but a spoonful of fat; keep the brown bits.",
+        "Shallot 1 minute, then deglaze with about 1 cup liquid and scrape.",
+        "Reduce by half. Off the heat, swirl in cold butter."
+      ],
+      "part": 5
     },
     {
       "slug": "roux-stages",
@@ -398,7 +572,8 @@
         "Blond: 5–7 minutes, light gold, smells like pie crust.",
         "Brown: 15–20 minutes on medium-low, peanut-butter colored, nutty.",
         "Dark specks or a burnt smell means start over."
-      ]
+      ],
+      "part": 5
     },
     {
       "slug": "how-thick-is-thick-enough",
@@ -412,7 +587,8 @@
         "Dip a spoon in the sauce and turn it over.",
         "Draw a line through the sauce with your finger.",
         "If the line stays clean, it's thick enough. If it floods back, simmer longer."
-      ]
+      ],
+      "part": 5
     },
     {
       "slug": "grating-garlic",
@@ -421,7 +597,12 @@
       "used_in": [
         "Chicken Alfredo"
       ],
-      "recap": []
+      "recap": [
+        "Rub a peeled clove across a microplane.",
+        "You'll get a smooth paste with no chunks.",
+        "Grated is the strongest form of garlic and burns in seconds. Cook it 30 seconds at most."
+      ],
+      "part": 5
     },
     {
       "slug": "topping-a-pot-pie",
@@ -430,7 +611,12 @@
       "used_in": [
         "Chicken Pot Pie"
       ],
-      "recap": []
+      "recap": [
+        "Lay the crust over the thick filling.",
+        "Fold the edge under and press it to the rim. Brush with egg wash.",
+        "Cut 4 slits so steam can escape."
+      ],
+      "part": 5
     },
     {
       "slug": "browning-mushrooms",
@@ -439,7 +625,12 @@
       "used_in": [
         "Creamy Mushroom Chicken"
       ],
-      "recap": []
+      "recap": [
+        "Single layer, no salt yet, don't stir for 3–4 minutes.",
+        "They release water first; let it cook off.",
+        "Once they're golden, stir and salt."
+      ],
+      "part": 5
     },
     {
       "slug": "mixing-meatballs",
@@ -448,7 +639,12 @@
       "used_in": [
         "Spaghetti and Meatballs"
       ],
-      "recap": []
+      "recap": [
+        "Soak breadcrumbs in milk first; this keeps them tender.",
+        "Mix with your hands just until combined, about 30 seconds.",
+        "Wet hands, roll golf-ball sizes. Cook to 160°F."
+      ],
+      "part": 5
     },
     {
       "slug": "making-cutlets",
@@ -457,7 +653,12 @@
       "used_in": [
         "Chicken Parmesan"
       ],
-      "recap": []
+      "recap": [
+        "Lay the breast flat, hand on top, and slice in half horizontally.",
+        "Between plastic wrap, pound to an even ½ inch.",
+        "Even thickness cooks through before the coating burns."
+      ],
+      "part": 5
     },
     {
       "slug": "the-breading-station",
@@ -466,7 +667,12 @@
       "used_in": [
         "Chicken Parmesan"
       ],
-      "recap": []
+      "recap": [
+        "Three dishes, left to right: flour, beaten egg, crumbs.",
+        "One hand for dry, one hand for wet.",
+        "Rest breaded pieces 10 minutes so the coating sticks."
+      ],
+      "part": 5
     },
     {
       "slug": "basting-a-steak",
@@ -475,7 +681,12 @@
       "used_in": [
         "Steak with Pan Sauce"
       ],
-      "recap": []
+      "recap": [
+        "After both sides are seared, lower to medium.",
+        "Add butter, garlic and herbs. Tilt the pan so the butter pools.",
+        "Spoon the foaming butter over the steak for 1–2 minutes."
+      ],
+      "part": 5
     },
     {
       "slug": "rinsing-rice",
@@ -484,7 +695,12 @@
       "used_in": [
         "Perfect Stovetop Rice"
       ],
-      "recap": []
+      "recap": [
+        "Rice in a fine-mesh strainer under cold water.",
+        "Swirl with your fingers about 1 minute.",
+        "Rinse until the water runs mostly clear. It keeps rice from turning gummy."
+      ],
+      "part": 6
     },
     {
       "slug": "why-cold-water",
@@ -493,7 +709,12 @@
       "used_in": [
         "Mashed Potatoes"
       ],
-      "recap": []
+      "recap": [
+        "Potatoes go into cold salted water, then come to a boil together.",
+        "Hot water cooks the outside to mush before the center is done.",
+        "Done when a knife slides in with no resistance."
+      ],
+      "part": 6
     },
     {
       "slug": "roughing-up-potatoes",
@@ -502,7 +723,12 @@
       "used_in": [
         "Crispy Roasted Potatoes"
       ],
-      "recap": []
+      "recap": [
+        "Parboil until the outsides are soft but centers firm.",
+        "Drain, add oil, lid on, shake hard 10–15 seconds.",
+        "The fuzzy outsides roast into a crunchy crust."
+      ],
+      "part": 6
     },
     {
       "slug": "browning-ground-beef",
@@ -511,7 +737,12 @@
       "used_in": [
         "Taco Night"
       ],
-      "recap": []
+      "recap": [
+        "Hot pan, press the beef flat into one layer.",
+        "Leave it alone 4–5 minutes until the bottom is deep brown.",
+        "Then break it up and flip. Stirring right away turns it gray."
+      ],
+      "part": 6
     },
     {
       "slug": "blending-hot-soup-safely",
@@ -520,7 +751,12 @@
       "used_in": [
         "Tomato Soup and Grilled Cheese"
       ],
-      "recap": []
+      "recap": [
+        "Immersion blender: keep the blade fully under the surface.",
+        "Regular blender: fill only halfway.",
+        "Remove the lid's center cap, cover the hole with a folded towel, hold the lid, start on low."
+      ],
+      "part": 6
     },
     {
       "slug": "cutting-in-butter",
@@ -529,7 +765,12 @@
       "used_in": [
         "Biscuits"
       ],
-      "recap": []
+      "recap": [
+        "Freeze the butter 15 minutes.",
+        "Grate it on the large holes straight into the flour.",
+        "Toss with your fingertips to coat. Work fast; warm butter means flat biscuits."
+      ],
+      "part": 6
     },
     {
       "slug": "folding-biscuit-dough",
@@ -538,7 +779,12 @@
       "used_in": [
         "Biscuits"
       ],
-      "recap": []
+      "recap": [
+        "Pat the dough into a 1-inch-thick rectangle.",
+        "Fold in thirds like a letter, turn, pat out again.",
+        "Three folds total, then cut straight down without twisting."
+      ],
+      "part": 6
     },
     {
       "slug": "what-risen-dough-looks-like",
@@ -547,7 +793,12 @@
       "used_in": [
         "No-Knead Bread"
       ],
-      "recap": []
+      "recap": [
+        "More than doubled in size.",
+        "Surface dotted with bubbles.",
+        "Jiggles when you shake the bowl."
+      ],
+      "part": 6
     },
     {
       "slug": "what-creamed-butter-looks-like",
@@ -556,7 +807,12 @@
       "used_in": [
         "Chocolate Chip Cookies"
       ],
-      "recap": []
+      "recap": [
+        "Softened butter and sugar beaten 2–3 minutes.",
+        "Paler in color and fluffy, like frosting.",
+        "Greasy and shiny means the butter was too warm."
+      ],
+      "part": 6
     },
     {
       "slug": "when-to-pull-cookies",
@@ -565,7 +821,12 @@
       "used_in": [
         "Chocolate Chip Cookies"
       ],
-      "recap": []
+      "recap": [
+        "Edges golden.",
+        "Centers still look pale and a little underdone.",
+        "They finish setting on the hot pan for 5 minutes."
+      ],
+      "part": 6
     },
     {
       "slug": "melting-chocolate",
@@ -574,7 +835,12 @@
       "used_in": [
         "Brownies"
       ],
-      "recap": []
+      "recap": [
+        "Microwave 30 seconds at a time, stirring between each.",
+        "Stop when almost melted; stir until smooth.",
+        "Never let a drop of water in; it turns chocolate grainy."
+      ],
+      "part": 6
     },
     {
       "slug": "toothpick-test",
@@ -583,7 +849,12 @@
       "used_in": [
         "Brownies"
       ],
-      "recap": []
+      "recap": [
+        "Poke a toothpick into the center.",
+        "A few moist crumbs: done and fudgy.",
+        "Wet batter: more time. Totally clean: a bit overbaked."
+      ],
+      "part": 6
     },
     {
       "slug": "making-crumble-topping",
@@ -592,7 +863,12 @@
       "used_in": [
         "Fruit Crisp"
       ],
-      "recap": []
+      "recap": [
+        "Flour, oats, brown sugar, cinnamon and salt in a bowl.",
+        "Pinch cold butter cubes into it with your fingertips.",
+        "Stop at pea-sized clumps with a few bigger ones."
+      ],
+      "part": 6
     }
   ]
 }
