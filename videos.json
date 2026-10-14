@@ -1,0 +1,598 @@
+{
+  "site": {
+    "title": "No Hidden Steps",
+    "book_links": {
+      "lulu": "",
+      "amazon": ""
+    },
+    "domain": "nohiddensteps.com",
+    "domain_live": false
+  },
+  "videos": [
+    {
+      "slug": "measuring-flour",
+      "title": "Measuring flour",
+      "youtube_id": "",
+      "used_in": [
+        "Buttermilk Pancakes"
+      ],
+      "recap": [
+        "Stir the flour in the bag to loosen it.",
+        "Spoon it into the dry measuring cup until it's heaped.",
+        "Sweep the top flat with the back of a knife.",
+        "Never scoop the cup straight into the bag; it packs in extra flour."
+      ]
+    },
+    {
+      "slug": "what-the-batter-should-look-like",
+      "title": "What the batter should look like",
+      "youtube_id": "",
+      "used_in": [
+        "Buttermilk Pancakes"
+      ],
+      "recap": [
+        "Stir wet into dry just until no dry flour shows, about 10–15 strokes.",
+        "Lumps are good. Stop stirring.",
+        "After 5 minutes of rest it looks thicker and a little bubbly."
+      ]
+    },
+    {
+      "slug": "when-to-flip",
+      "title": "When to flip",
+      "youtube_id": "",
+      "used_in": [
+        "Buttermilk Pancakes"
+      ],
+      "recap": [
+        "Bubbles on top pop and leave holes that stay open.",
+        "The edges look dry and matte instead of shiny.",
+        "Usually 2–3 minutes on medium heat. Flip once."
+      ]
+    },
+    {
+      "slug": "soft-scrambled-eggs",
+      "title": "Soft scrambled eggs",
+      "youtube_id": "",
+      "used_in": [
+        "Breakfast Burritos",
+        "Scrambled Eggs and Omelet"
+      ],
+      "recap": [
+        "Medium-low heat; butter should foam gently, not brown.",
+        "Wait 20 seconds, then slowly push the eggs from the edge to the center.",
+        "Take them off the heat while they still look a little wet and glossy."
+      ]
+    },
+    {
+      "slug": "how-to-roll-a-burrito",
+      "title": "How to roll a burrito",
+      "youtube_id": "",
+      "used_in": [
+        "Breakfast Burritos"
+      ],
+      "recap": [
+        "Warm the tortilla first so it doesn't crack.",
+        "Filling in a line just below the middle.",
+        "Fold the bottom up, fold in both sides, then roll away from you, tucking as you go."
+      ]
+    },
+    {
+      "slug": "making-a-vinaigrette",
+      "title": "Making a vinaigrette",
+      "youtube_id": "",
+      "used_in": [
+        "House Vinaigrette and Simple Salad"
+      ],
+      "recap": [
+        "Shake the vinegar and salt first so the salt dissolves.",
+        "Add the mustard and oil.",
+        "Shake hard 20–30 seconds until cloudy and slightly thick.",
+        "Taste on a lettuce leaf, not a spoon."
+      ]
+    },
+    {
+      "slug": "the-pinch-grip",
+      "title": "The pinch grip",
+      "youtube_id": "",
+      "used_in": [
+        "Knife Skills (Part 2)"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "the-claw-grip",
+      "title": "The claw grip",
+      "youtube_id": "",
+      "used_in": [
+        "Knife Skills (Part 2)"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "honing-a-knife",
+      "title": "Honing a knife",
+      "youtube_id": "",
+      "used_in": [
+        "Knife Skills (Part 2)"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "dicing-an-onion",
+      "title": "Dicing an onion",
+      "youtube_id": "",
+      "used_in": [
+        "Knife Skills (Part 2)"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "peeling-and-smashing-garlic",
+      "title": "Peeling and smashing garlic",
+      "youtube_id": "",
+      "used_in": [
+        "Knife Skills (Part 2)",
+        "Roast Chicken"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "slicing-a-bell-pepper",
+      "title": "Slicing a bell pepper",
+      "youtube_id": "",
+      "used_in": [
+        "Knife Skills (Part 2)",
+        "Chicken Fajitas"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "against-the-grain",
+      "title": "Against the grain",
+      "youtube_id": "",
+      "used_in": [
+        "Knife Skills (Part 2)",
+        "Chicken Fajitas"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "dicing-a-tomato",
+      "title": "Dicing a tomato",
+      "youtube_id": "",
+      "used_in": [
+        "Pico de Gallo"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "cutting-an-avocado-safely",
+      "title": "Cutting an avocado safely",
+      "youtube_id": "",
+      "used_in": [
+        "Guacamole"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "slicing-garlic",
+      "title": "Slicing garlic",
+      "youtube_id": "",
+      "used_in": [
+        "Spaghetti Aglio e Olio"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "golden-vs-burnt-garlic",
+      "title": "Golden vs burnt garlic",
+      "youtube_id": "",
+      "used_in": [
+        "Spaghetti Aglio e Olio"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "shredding-cabbage",
+      "title": "Shredding cabbage",
+      "youtube_id": "",
+      "used_in": [
+        "Coleslaw"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "julienne",
+      "title": "Julienne",
+      "youtube_id": "",
+      "used_in": [
+        "Coleslaw"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "gray-vs-brown-maillard",
+      "title": "Gray vs. brown (Maillard)",
+      "youtube_id": "",
+      "used_in": [
+        "Heat & Cooking Methods (Part 3)",
+        "Pan-Seared Chicken Thighs"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "boil-vs-simmer",
+      "title": "Boil vs. simmer",
+      "youtube_id": "",
+      "used_in": [
+        "Heat & Cooking Methods (Part 3)",
+        "Boiled Pasta with Butter and Parmesan",
+        "Chicken Stock"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "deglazing",
+      "title": "Deglazing",
+      "youtube_id": "",
+      "used_in": [
+        "Heat & Cooking Methods (Part 3)",
+        "Beef Stew"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "folding-an-omelet",
+      "title": "Folding an omelet",
+      "youtube_id": "",
+      "used_in": [
+        "Scrambled Eggs and Omelet"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "al-dente",
+      "title": "Al dente",
+      "youtube_id": "",
+      "used_in": [
+        "Boiled Pasta with Butter and Parmesan"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "cutting-broccoli-and-squash",
+      "title": "Cutting broccoli and squash",
+      "youtube_id": "",
+      "used_in": [
+        "Roasted Vegetables"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "crowded-vs-spaced",
+      "title": "Crowded vs spaced",
+      "youtube_id": "",
+      "used_in": [
+        "Roasted Vegetables"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "the-smash",
+      "title": "The smash",
+      "youtube_id": "",
+      "used_in": [
+        "Smash Burgers"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "mincing-garlic",
+      "title": "Mincing garlic",
+      "youtube_id": "",
+      "used_in": [
+        "Chicken Stir-Fry"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "blanching",
+      "title": "Blanching",
+      "youtube_id": "",
+      "used_in": [
+        "Garlic Green Beans"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "where-to-put-the-thermometer",
+      "title": "Where to put the thermometer",
+      "youtube_id": "",
+      "used_in": [
+        "Roast Chicken"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "carving-a-chicken",
+      "title": "Carving a chicken",
+      "youtube_id": "",
+      "used_in": [
+        "Roast Chicken"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "browning-in-batches",
+      "title": "Browning in batches",
+      "youtube_id": "",
+      "used_in": [
+        "Beef Stew"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "slicing-onions-without-crying",
+      "title": "Slicing onions without crying",
+      "youtube_id": "",
+      "used_in": [
+        "French Onion Soup"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "caramelized-onion-stages",
+      "title": "Caramelized onion stages",
+      "youtube_id": "",
+      "used_in": [
+        "French Onion Soup"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "the-risotto-rhythm",
+      "title": "The risotto rhythm",
+      "youtube_id": "",
+      "used_in": [
+        "Simple Risotto"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "blooming-spices",
+      "title": "Blooming spices",
+      "youtube_id": "",
+      "used_in": [
+        "Chicken Tortilla Soup"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "thickening-with-potatoes",
+      "title": "Thickening with potatoes",
+      "youtube_id": "",
+      "used_in": [
+        "Loaded Potato Soup"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "pan-sauce",
+      "title": "Pan sauce",
+      "youtube_id": "",
+      "used_in": [
+        "Sauces (Part 5)"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "roux-stages",
+      "title": "Roux stages",
+      "youtube_id": "",
+      "used_in": [
+        "Basic Roux",
+        "Mac and Cheese"
+      ],
+      "recap": [
+        "White: 2–3 minutes, pale like wet sand, no raw-flour smell.",
+        "Blond: 5–7 minutes, light gold, smells like pie crust.",
+        "Brown: 15–20 minutes on medium-low, peanut-butter colored, nutty.",
+        "Dark specks or a burnt smell means start over."
+      ]
+    },
+    {
+      "slug": "how-thick-is-thick-enough",
+      "title": "How thick is thick enough",
+      "youtube_id": "",
+      "used_in": [
+        "Basic Roux",
+        "Mac and Cheese"
+      ],
+      "recap": [
+        "Dip a spoon in the sauce and turn it over.",
+        "Draw a line through the sauce with your finger.",
+        "If the line stays clean, it's thick enough. If it floods back, simmer longer."
+      ]
+    },
+    {
+      "slug": "grating-garlic",
+      "title": "Grating garlic",
+      "youtube_id": "",
+      "used_in": [
+        "Chicken Alfredo"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "topping-a-pot-pie",
+      "title": "Topping a pot pie",
+      "youtube_id": "",
+      "used_in": [
+        "Chicken Pot Pie"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "browning-mushrooms",
+      "title": "Browning mushrooms",
+      "youtube_id": "",
+      "used_in": [
+        "Creamy Mushroom Chicken"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "mixing-meatballs",
+      "title": "Mixing meatballs",
+      "youtube_id": "",
+      "used_in": [
+        "Spaghetti and Meatballs"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "making-cutlets",
+      "title": "Making cutlets",
+      "youtube_id": "",
+      "used_in": [
+        "Chicken Parmesan"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "the-breading-station",
+      "title": "The breading station",
+      "youtube_id": "",
+      "used_in": [
+        "Chicken Parmesan"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "basting-a-steak",
+      "title": "Basting a steak",
+      "youtube_id": "",
+      "used_in": [
+        "Steak with Pan Sauce"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "rinsing-rice",
+      "title": "Rinsing rice",
+      "youtube_id": "",
+      "used_in": [
+        "Perfect Stovetop Rice"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "why-cold-water",
+      "title": "Why cold water",
+      "youtube_id": "",
+      "used_in": [
+        "Mashed Potatoes"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "roughing-up-potatoes",
+      "title": "Roughing up potatoes",
+      "youtube_id": "",
+      "used_in": [
+        "Crispy Roasted Potatoes"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "browning-ground-beef",
+      "title": "Browning ground beef",
+      "youtube_id": "",
+      "used_in": [
+        "Taco Night"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "blending-hot-soup-safely",
+      "title": "Blending hot soup safely",
+      "youtube_id": "",
+      "used_in": [
+        "Tomato Soup and Grilled Cheese"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "cutting-in-butter",
+      "title": "Cutting in butter",
+      "youtube_id": "",
+      "used_in": [
+        "Biscuits"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "folding-biscuit-dough",
+      "title": "Folding biscuit dough",
+      "youtube_id": "",
+      "used_in": [
+        "Biscuits"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "what-risen-dough-looks-like",
+      "title": "What risen dough looks like",
+      "youtube_id": "",
+      "used_in": [
+        "No-Knead Bread"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "what-creamed-butter-looks-like",
+      "title": "What creamed butter looks like",
+      "youtube_id": "",
+      "used_in": [
+        "Chocolate Chip Cookies"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "when-to-pull-cookies",
+      "title": "When to pull cookies",
+      "youtube_id": "",
+      "used_in": [
+        "Chocolate Chip Cookies"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "melting-chocolate",
+      "title": "Melting chocolate",
+      "youtube_id": "",
+      "used_in": [
+        "Brownies"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "toothpick-test",
+      "title": "Toothpick test",
+      "youtube_id": "",
+      "used_in": [
+        "Brownies"
+      ],
+      "recap": []
+    },
+    {
+      "slug": "making-crumble-topping",
+      "title": "Making crumble topping",
+      "youtube_id": "",
+      "used_in": [
+        "Fruit Crisp"
+      ],
+      "recap": []
+    }
+  ]
+}
